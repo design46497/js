@@ -1,0 +1,2 @@
+kariya = ikemen
+print("kariya")
